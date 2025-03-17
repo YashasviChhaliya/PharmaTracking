@@ -9,7 +9,7 @@ A solution for tracking the authenticity of pharmaceutical products through the 
 ## Smart Contract Address
 0xE06fccBfccE7720A30683296e16368B11ba8C535
 
-![image](https://github.com/user-attachments/assets/6ae31a38-28e0-4577-a4af-090991eb9e94)
+![image](https://github.com/user-attachments/assets/15103433-0cae-4b6c-8af5-fbe5c386e672)
 
 
 ## Project Vision
